@@ -8,7 +8,7 @@ const Header = () => (
     <div className="gpt3__header-content">
       <p>Builders of Web 3 X Make Calcutta Relevant Again </p>
       <h4>Presents</h4>
-      <h1 className="gradient__text">CCU Festival (BUILD)</h1>
+      <h1 className="gradient__text">CCU Festival (BUIDL)</h1>
       <p>Join us as we celebrate Calcutta like never before.Curated with care and love from Make Calcutta Relevant Again an Initiative to bring back Calcutta Glory and Builders of Web3 an initiative to make Calcutta Relevant in Web 3.</p>
       <div className="gpt3__header-content__input">
         <button type="button">29th October,Taal Kutir</button>

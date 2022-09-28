@@ -11,11 +11,11 @@ const App = () => (
       <Navbar />
       <Header />
     </div>
-    <Brand />
     <WhatGPT3 />
     <Features />
     <Possibility />
     <CTA />
+    <Brand />
     <Footer />
   </div>
 );
